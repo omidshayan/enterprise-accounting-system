@@ -113,63 +113,44 @@ An example of the customer account interface.
 
 ## Application Screenshots
 
-The following screenshots demonstrate selected interfaces and features of the application.
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
 
-### 1. Dashboard
+### UI Themes
+![Six UI Themes](screenshots/themes.png)
 
-The main dashboard provides an overview of business activities and important management information.
-
-![Main Dashboard](screenshots/dashboard.png)
-
-### 2. Customizable UI Themes
-
-The application provides six visual themes, allowing users to choose their preferred interface style.
-
-![Six Available UI Themes](screenshots/themes.png)
-
-### 3. Customer Management
-
-Customer account interface with access to customer-related financial information.
-
+### Customer Management
 ![Customer Account](screenshots/customer.png)
 
-### 4. Accounting & Financial Management
+### Accounting
+![Accounting](screenshots/accounting.png)
 
-![Accounting Interface](screenshots/accounting.png)
+### Sales
+![Sales](screenshots/sales.png)
 
-### 5. Sales & Purchasing
+### Purchasing
+![Purchasing](screenshots/purchases.png)
 
-![Sales Management](screenshots/sales.png)
+### Inventory
+![Inventory](screenshots/inventory.png)
 
-![Purchasing Management](screenshots/purchases.png)
+### Employee Management
+![Employees](screenshots/employees.png)
 
-### 6. Inventory Management
+### Payroll
+![Payroll](screenshots/payroll.png)
 
-![Inventory Management](screenshots/inventory.png)
+### Attendance
+![Attendance](screenshots/attendance.png)
 
-### 7. Human Resources
+### Jewelry Management
+![Jewelry](screenshots/jewelry.png)
 
-Employee management, payroll, and attendance interfaces.
+### Reports
+![Reports](screenshots/reports.png)
 
-![Employee Management](screenshots/employees.png)
-
-![Payroll Management](screenshots/payroll.png)
-
-![Attendance Management](screenshots/attendance.png)
-
-### 8. Jewelry & Gold Management
-
-![Jewelry Management](screenshots/jewelry.png)
-
-### 9. Reports & Analytics
-
-![Reports and Analytics](screenshots/reports.png)
-
-### 10. Mobile PWA
-
-A mobile-oriented experience designed for managers, with dedicated navigation and simplified layouts.
-
-![Mobile PWA Interface](screenshots/mobile-pwa.png)
+### Mobile PWA
+![Mobile PWA](screenshots/mobile-pwa.png)
 
 The original application source code is proprietary and is not included in this repository.
 
