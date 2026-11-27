@@ -16,6 +16,28 @@ Its modular architecture makes it possible to extend existing functionality and 
 
 ## Key Features
 
+## Multilingual Support
+
+The application features a multilingual user interface with support for three languages:
+
+- **Persian (فارسی)**
+- **English**
+- **Pashto (پښتو)**
+
+Users can interact with the application in their preferred supported language.
+
+The application screenshots in this repository are captured from the Persian-language interface. They demonstrate the actual product UI and its functionality.
+
+The multilingual interface is an integrated feature of the application, not a separate demonstration or prototype.
+
+### Multilingual Interface
+- Multi-language user interface
+- Support for different language environments
+- Persian-language interface currently demonstrated in the portfolio screenshots
+- Persian, English, and Pashto language support
+- Multilingual application interface
+- Designed for users with different language preferences
+
 ### Accounting & Financial Management
 - Double-entry and simplified accounting workflows
 - Financial transactions and account management
@@ -121,9 +143,9 @@ An example of the customer account interface.
 
 ### Customer Management
 ![Customer Account](screenshots/customer.png)
-
+<!-- 
 ### Accounting
-![Accounting](screenshots/accounting.png)
+![Accounting](screenshots/accounting.png) -->
 
 ### Sales
 ![Sales](screenshots/sales.png)
@@ -133,18 +155,6 @@ An example of the customer account interface.
 
 ### Inventory
 ![Inventory](screenshots/inventory.png)
-
-### Employee Management
-![Employees](screenshots/employees.png)
-
-### Payroll
-![Payroll](screenshots/payroll.png)
-
-### Attendance
-![Attendance](screenshots/attendance.png)
-
-### Jewelry Management
-![Jewelry](screenshots/jewelry.png)
 
 ### Reports
 ![Reports](screenshots/reports.png)
