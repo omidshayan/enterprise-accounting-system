@@ -111,6 +111,66 @@ An example of the customer account interface.
 
 ## Source Code
 
+## Application Screenshots
+
+The following screenshots demonstrate selected interfaces and features of the application.
+
+### 1. Dashboard
+
+The main dashboard provides an overview of business activities and important management information.
+
+![Main Dashboard](screenshots/dashboard.png)
+
+### 2. Customizable UI Themes
+
+The application provides six visual themes, allowing users to choose their preferred interface style.
+
+![Six Available UI Themes](screenshots/themes.png)
+
+### 3. Customer Management
+
+Customer account interface with access to customer-related financial information.
+
+![Customer Account](screenshots/customer.png)
+
+### 4. Accounting & Financial Management
+
+![Accounting Interface](screenshots/accounting.png)
+
+### 5. Sales & Purchasing
+
+![Sales Management](screenshots/sales.png)
+
+![Purchasing Management](screenshots/purchases.png)
+
+### 6. Inventory Management
+
+![Inventory Management](screenshots/inventory.png)
+
+### 7. Human Resources
+
+Employee management, payroll, and attendance interfaces.
+
+![Employee Management](screenshots/employees.png)
+
+![Payroll Management](screenshots/payroll.png)
+
+![Attendance Management](screenshots/attendance.png)
+
+### 8. Jewelry & Gold Management
+
+![Jewelry Management](screenshots/jewelry.png)
+
+### 9. Reports & Analytics
+
+![Reports and Analytics](screenshots/reports.png)
+
+### 10. Mobile PWA
+
+A mobile-oriented experience designed for managers, with dedicated navigation and simplified layouts.
+
+![Mobile PWA Interface](screenshots/mobile-pwa.png)
+
 The original application source code is proprietary and is not included in this repository.
 
 This repository is intended to document the product's capabilities, architecture, and selected interface examples.
